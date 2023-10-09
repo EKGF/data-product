@@ -39,7 +39,7 @@ jobs:
           path: .cache
       -
         name: Install asdf & tools
-        uses: asdf-vm/actions/install@v2
+        uses: asdf-vm/actions/install@v3
       -
         name: Install all MkDocs dependencies
         if: ${{ github.ref == 'refs/heads/main' }}
