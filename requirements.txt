@@ -19,7 +19,7 @@ et-xmlfile==1.1.0
 filelock==3.11.0
 ghp-import==2.1.0
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.37
 htmlmin2==0.1.13
 httplib2==0.22.0
 humps==0.2.2
