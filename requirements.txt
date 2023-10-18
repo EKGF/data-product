@@ -88,7 +88,7 @@ termcolor==2.2.0
 toml==0.10.2
 types-awscrt==0.16.14
 types-s3transfer==0.6.0.post7
-urllib3==1.26.15
+urllib3==1.26.18
 virtualenv==20.21.0
 virtualenv-clone==0.5.7
 watchdog==3.0.0
