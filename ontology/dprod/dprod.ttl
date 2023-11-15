@@ -261,7 +261,7 @@ dprod:Distribution-belongsToDataset
   sh:path dprod:belongsToDataset;
   sh:class dcat:Dataset;
   dc:description "The dataset that this distribution makes available"@en ;
-  rdfs:label "Distribution-belongsToDataset;
+  rdfs:label "Distribution-belongsToDataset";
   .
 
 dprod:belongsToDataset
@@ -279,7 +279,7 @@ dprod:DataService-offersDistribution
   sh:path dprod:offersDistribution;
   sh:class dcat:Dataset;
   dc:description "The dataset distribution that is being offered through this Data Service"@en ;
-  rdfs:label "DataService-offersDistribution;
+  rdfs:label "DataService-offersDistribution";
   .
 
 dprod:offersDistribution
