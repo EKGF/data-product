@@ -19,7 +19,7 @@ examplePolicyA odrl:permission
    {
     "action": "odrl:distribute",
     "constraint": [
-       {"leftOperand": "region",
+       {"leftOperand": "spatial",
          "operator": "eq",
         "rightOperator": "region:EMEA"
        }
