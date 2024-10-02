@@ -11,7 +11,7 @@
        "constraint": [
           {
             "@type": "Constraint",
-            "leftOperand": "workingCountry",
+            "leftOperand": "spatial",
             "operator": "odrl:isAnyOf",
             "rightOperand": [region:EMEA, region:APAC],
             "description": " Permission to read all the datasets of the product if user is working inside EMEA or APAC"
